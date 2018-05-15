@@ -1,4 +1,4 @@
-# Openclassroom : tests avec Symfony
+# Openclassroom : Tests fonctionnels avec PHPUnit et Symfony
 
 A Symfony project created on 2017-09-11
 
